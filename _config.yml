@@ -1,4 +1,4 @@
-url: "https://bagnum-host.github.io"
+url: "https://bagnum-wiki.github.io"
 # (string) Title of your wiki
 title: BagnUM Wiki
 # (string) Description of your wiki
@@ -146,6 +146,7 @@ inc_before_page_list :
 inc_after_page_list :
 inc_before_post_list :
 inc_after_post_list :
+
 
 
 
